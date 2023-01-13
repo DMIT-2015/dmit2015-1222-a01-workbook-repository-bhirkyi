@@ -1,8 +1,8 @@
-# DMIT2015 Fall 2022 assignments
+# DMIT2015 Winter 2023 assignments
 
-## your name here
+## Bohdan Hirkyi
 
-## your Github Account id
+## bhirkyi
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
